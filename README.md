@@ -10,6 +10,8 @@
 
 **Data:** This dataset was created by Daniel Grijalva and focuses on movies produced from 1980 to 2020. The dataset was scraped from IMDB using Python.  You can download dataset from [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies)
 
+**For the final dashboard please refer to [Dashboard](/Dashboard.pdf)**
+
 **Visualization 01:**<br>
 The first visualization in the dashboard depicts the financial performance giving a brief idea about the Gross, Budget and Profit (calculated field) of the movies produced over the years. The Bar-in-bar chart gives a great comparison of the difference between Gross and Budget providing a holistic view of how economically profitable movie industry is to the Financial Investors. The line chart illustrated the Profit trend of the industry. It will furnish the target audience with the prediction for expected amount of profit that the movie industry will deliver in the upcoming years based on the relative trend and aid them with decisions concerning investment opportunities.
 ![Image01](/Data/Images/V01.png)
