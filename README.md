@@ -18,8 +18,7 @@ The purpose of this project is to design Tableau Dashboard to give an insight in
 ## Project Description
 
 ### The Goal of the project was as follows
-* Define a research/business goal.
-* Describe the research/business queries related to the goal.
+* Define a research/business goal and describe the research/business queries related to the goal.
 * Identify the dataset for the research.
 * Explore the dataset and the visualization techniques.
 * Create an interactive and exploratory dashboard.
