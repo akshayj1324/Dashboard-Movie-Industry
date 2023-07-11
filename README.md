@@ -26,7 +26,7 @@ The purpose of this project is to design Tableau Dashboard to give an insight in
 * Identify the dataset for the research.<br>
     **Data Source:** This dataset was created by Daniel Grijalva and focuses on movies produced from 1980 to 2020. The dataset was scraped from IMDB using Python. You can download dataset from [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies)
 * Create an interactive and exploratory dashboard.<br>
-    **For the pdf export of the final dashboard please refer to [Dashboard](/Dashboard.pdf)**
+    For the pdf export of the final dashboard please refer to [Dashboard](/Dashboard.pdf)
 
 **For crops of individual visualization please refer to [Images](/Data/Images/)**
 
