@@ -22,7 +22,7 @@ The purpose of this project is to design Tableau Dashboard to give an insight in
 * Identify the dataset for the research.
 * Create an interactive and exploratory dashboard.<br>
 
-**Business Queries:**
+**Business queries answered:**
 * What was the financial performance of movies from 1980 to 2020?
 * How was quality of movies produced by top 5 companies over the last four decades?
 * How the popularity of the genre has progressed over the period of 40 years?
