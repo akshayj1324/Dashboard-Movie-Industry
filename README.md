@@ -17,14 +17,14 @@ The purpose of this project is to design Tableau Dashboard to give an insight in
 
 ## Project Description
 
-* The Goal of the project was as follows
+* The goal of the project was as follows
     * Define a research/business goal and describe the research/business queries related to the goal.
     * Identify the dataset for the research.
     * Create an interactive and exploratory dashboard.<br>
 
 * Business queries answered:
     * What was the financial performance of movies from 1980 to 2020?
-    * How was quality of movies produced by top 5 companies over the last four decades?
+    * How was the quality of movies produced by the top 5 companies over the last four decades?
     * How the popularity of the genre has progressed over the period of 40 years?
     * Which are the emerging countries in movie production besides the United States?
 
